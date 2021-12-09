@@ -1,0 +1,19 @@
+[ {
+  "values" : [ "win10" ],
+  "name" : "systemVersion"
+}, {
+  "values" : [ "3.7.0" ],
+  "name" : "pythonVersion"
+}, {
+  "values" : [ "2.13.15" ],
+  "name" : "allureVersion"
+}, {
+  "values" : [ "https://www.cnblogs.com/xyztank/" ],
+  "name" : "baseUrl"
+}, {
+  "values" : [ "upl" ],
+  "name" : "projectName"
+}, {
+  "values" : [ "xtank" ],
+  "name" : "author"
+} ]

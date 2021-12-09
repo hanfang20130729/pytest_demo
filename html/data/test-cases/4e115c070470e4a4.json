@@ -1,0 +1,72 @@
+{
+  "uid" : "4e115c070470e4a4",
+  "name" : "test_han_2",
+  "fullName" : "run_demo.test1.test_funcname2.TestClass1#test_han_2",
+  "historyId" : "e9661bf64972015526622ec5cd79438a",
+  "time" : {
+    "start" : 1638955469704,
+    "stop" : 1638955469705,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eb43a4ceb6db022e",
+      "name" : "stdout",
+      "source" : "eb43a4ceb6db022e.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "run_demo.test1"
+  }, {
+    "name" : "suite",
+    "value" : "test_funcname2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass1"
+  }, {
+    "name" : "host",
+    "value" : "ZB-PF1BEK8Z"
+  }, {
+    "name" : "thread",
+    "value" : "18984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "run_demo.test1.test_funcname2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e115c070470e4a4.json",
+  "parameterValues" : [ ]
+}
