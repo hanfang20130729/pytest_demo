@@ -127,5 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.idea/workspace.xml
+.idea/*
 Test Results - pytest_for_test_funcname_test_mytest.html
